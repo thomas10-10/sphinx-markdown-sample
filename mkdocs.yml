@@ -1,10 +1,6 @@
 
 site_name: Markdown practice rtd
 repo_url: https://github.com/bewest/rtd-markdown-practice
-pages:
-- [index.md, index]
-- [README.md, README]
-- [01-intro.md, Introduction]
 doc_format:
 - latex
 - html
