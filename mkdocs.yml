@@ -1,9 +1,4 @@
 
 site_name: Markdown practice rtd
 repo_url: https://github.com/bewest/rtd-markdown-practice
-doc_format:
-- latex
-- html
-- rst
-- man
 
