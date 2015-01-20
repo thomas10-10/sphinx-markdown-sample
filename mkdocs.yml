@@ -2,6 +2,6 @@
 site_name: Markdown practice rtd
 repo_url: https://github.com/bewest/rtd-markdown-practice
 pages:
-- [README.md, README]
+- [README.md, index]
 - [01-intro.md, Introductions]
 
