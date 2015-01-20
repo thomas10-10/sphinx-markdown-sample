@@ -5,4 +5,9 @@ pages:
 - [index.md, index]
 - [README.md, README]
 - [01-intro.md, Introduction]
+doc_format:
+- latex
+- html
+- rst
+- man
 
