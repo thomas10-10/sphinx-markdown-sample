@@ -11,3 +11,4 @@ document.
 
 ### Subdirectories are chapters/sections
 Make a subdirectory and put another `index.md` or name your files.
+
